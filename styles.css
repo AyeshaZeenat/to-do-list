@@ -4,7 +4,7 @@ body{
     justify-content: center;
     background-color: greenyellow;
 }
-form{
+.form{
    position:absolute;
    top: 30%;
    background-color: yellow;
